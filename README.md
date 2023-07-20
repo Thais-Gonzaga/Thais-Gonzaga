@@ -10,6 +10,7 @@
 
 ![Anurag's GitHub stats](https://gonzagadavid-github-readme-stats.vercel.app/api?username=Thais-Gonzaga&theme=transparent&show_icons=true&bg_color=00000000)
  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thais-Gonzaga&layout=compact&langs_count=7&theme=dracula"/>
+ 
 
 ### 🛸 Habilidades & Tecnologias
 <br>
