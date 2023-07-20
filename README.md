@@ -3,7 +3,7 @@
 ![Alt Text]( https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif 'Gif Cyberpunk')
 
 
-  Sou formada em Licenciatura em Física pela Universidade Federal de São Carlos(UFSCar) e lencionava aulas de matemática e física. Durante a pandemia, tive o privilégio de conhecer JavaScript e apaixonei, o que me levou entrar na escola Trybe para estudar e dedicar todo o meu tempo no desenvolvimento web. Atualmente, estou colhendo frutos da minha dedicação e estagiando como Summer de instrução nessa escola. Adoro assistir series,ir a praia, jogar e visitar familia e amigos.
+  Sou formada em Física pela Universidade Federal de São Carlos(UFSCar) e lencionava aulas de matemática e física. Durante a pandemia, tive o privilégio de conhecer JavaScript e apaixonei, o que me levou entrar na escola Trybe para estudar e dedicar todo o meu tempo no desenvolvimento web. Atualmente, estou colhendo frutos da minha dedicação e estagiando como Summer de instrução nessa escola. Adoro assistir series,ir a praia, jogar e visitar familia e amigos.
 
   📫 devthaisgonzaga@gmail.com<br>
   <img src="https://i.stack.imgur.com/gVE0j.png"/><a href="https://www.linkedin.com/in/thaissgonzaga/"> LinkedIn</a>
