@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A7BF7&width=350&lines=Oieeee,+Bem+Vindes+<3;Desenvolvedora+Web+Full+Stack)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A7BF7&width=350&lines=Oieeee<3;Desenvolvedora+Web+Full+Stack)
 
 ![Alt Text]( https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif 'Gif Cyberpunk')
 
